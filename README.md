@@ -13,4 +13,4 @@ By understanding the data structures and their algorithms, I will be able to ana
 
 •	How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
  My goal is always to design projects that are easy to maintain and readable. After taking this course, I have improved my analysis skills to calculate  the structure’s time complexity to determine the best efficient algorithm.
-![image](https://user-images.githubusercontent.com/107447451/185013686-dc566e17-98f2-4e2f-889a-b13b19f22ba8.png)
+
